@@ -1,0 +1,15 @@
+E:\training\Dotnet_Topbrains\AlphabetVowel\bin\Debug\net10.0\AlphabetVowel.exe
+E:\training\Dotnet_Topbrains\AlphabetVowel\bin\Debug\net10.0\AlphabetVowel.deps.json
+E:\training\Dotnet_Topbrains\AlphabetVowel\bin\Debug\net10.0\AlphabetVowel.runtimeconfig.json
+E:\training\Dotnet_Topbrains\AlphabetVowel\bin\Debug\net10.0\AlphabetVowel.dll
+E:\training\Dotnet_Topbrains\AlphabetVowel\bin\Debug\net10.0\AlphabetVowel.pdb
+E:\training\Dotnet_Topbrains\AlphabetVowel\obj\Debug\net10.0\AlphabetVowel.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\Dotnet_Topbrains\AlphabetVowel\obj\Debug\net10.0\AlphabetVowel.AssemblyInfoInputs.cache
+E:\training\Dotnet_Topbrains\AlphabetVowel\obj\Debug\net10.0\AlphabetVowel.AssemblyInfo.cs
+E:\training\Dotnet_Topbrains\AlphabetVowel\obj\Debug\net10.0\AlphabetVowel.csproj.CoreCompileInputs.cache
+E:\training\Dotnet_Topbrains\AlphabetVowel\obj\Debug\net10.0\AlphabetVowel.sourcelink.json
+E:\training\Dotnet_Topbrains\AlphabetVowel\obj\Debug\net10.0\AlphabetVowel.dll
+E:\training\Dotnet_Topbrains\AlphabetVowel\obj\Debug\net10.0\refint\AlphabetVowel.dll
+E:\training\Dotnet_Topbrains\AlphabetVowel\obj\Debug\net10.0\AlphabetVowel.pdb
+E:\training\Dotnet_Topbrains\AlphabetVowel\obj\Debug\net10.0\AlphabetVowel.genruntimeconfig.cache
+E:\training\Dotnet_Topbrains\AlphabetVowel\obj\Debug\net10.0\ref\AlphabetVowel.dll
